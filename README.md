@@ -11,3 +11,7 @@ router-outlet connection
 routing created
 
 service file created  ng generate service api
+
+service connectivity and ngoninit
+
+get service hitting from https://reqres.in/api/users?page=2

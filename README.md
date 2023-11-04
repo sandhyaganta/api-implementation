@@ -17,3 +17,5 @@ service connectivity and ngoninit
 get service hitting from https://reqres.in/api/users?page=2
 
 print apidata using ngfor
+
+npm i bootstrap implemented
